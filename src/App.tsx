@@ -1,9 +1,9 @@
 import React, {useState} from 'react';
 import './App.css';
-import Accordion from "./components/Accordion";
+import Accordion from "./components/Accordion/Accordion";
 import {Rating, RatingValueType} from "./components/Rating/Rating";
 import OnOff from "./components/OnOff/OnOff";
-import UnControlledAccordion from "./components/UnControlledAccordion";
+import UnControlledAccordion from "./components/Accordion/UnControlledAccordion";
 import UnControlledRating from "./components/Rating/UnControlledRating";
 
 // function declaration
